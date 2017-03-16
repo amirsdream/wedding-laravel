@@ -1,0 +1,286 @@
+body{
+    background-color: #54364a !important;
+    background-size: cover !important;
+    background-image: url(../images/e.jpg) !important;
+}
+.center-block{
+    display: block !important;
+    width: 40% !important;
+    margin: auto !important;
+}
+.login-icon{
+    background-image: url("../images/Lock-50.png ");
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 51px;
+    height: 51px;
+    background-position: center center;
+}
+.without-margin-right{
+    margin-right: auto !important;
+    direction: rtl;
+    text-align: right;
+    vertical-align: middle;
+    top: -23px !important;
+    right: 10px !important;
+
+}
+.login-header{
+    padding: 0px 0px 0px 0px !important;
+}
+.label-style{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-top: 5px;
+}
+.align-center{
+text-align: center;
+}
+.display-block{
+display: block;
+}
+.left-nav{
+    height:100vh;
+}
+.float-auto{
+    float: none !important;
+}
+.center-block2{
+    float: none !important;
+    margin: auto !important;
+
+}
+.margin-auto{
+    margin: auto !important;
+}
+.padding-auto{
+    padding-right: 0px !important;
+}
+.padding-1px{
+    padding-top: 1px;
+}
+.padding-7px{
+    padding-top: 7px;
+}
+.padding-rl-auto{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.c1{
+    padding-left: 0px !important;
+    /*padding-right: 0px !important;*/
+}
+.display-block{
+    display: block !important;
+}
+.align-right{
+    text-align: right;
+}
+.padding-button-auto{
+    padding-bottom: 0px !important;
+}
+.margin-bottom-auto{
+    margin-bottom: auto !important;
+}
+.margin-top-auto{
+    margin-top: auto !important;
+}
+.padding-right-inherit{
+    padding-right: 0px !important;
+}
+.width100{
+    width: 100% !important;
+}
+.border-none{
+    border: none !important;
+}
+
+.color-red{
+    color: #b63315;
+}
+.fontsize24{
+    font-size: 24px;
+}
+.btn-login{
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    margin-top: 25px !important;
+
+}
+.list-style-none{
+    list-style-type: none !important;
+    padding-right: 0px !important;
+}
+.padding-50px{
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+}
+.fontsize20{
+    font-size: 20px !important;
+}
+.border-bottom{
+    border-bottom: solid 2px #B63315 !important;
+}
+.padding-top30{
+    padding-top: 30px
+}
+.padding-top0{
+    padding-top: 0px !important;
+}
+#signin{
+    margin: auto !important;
+    float: none;
+    margin-top: 10% !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    position: static !important;
+    height: 70% !important;
+    width: 50% !important;
+}
+.btn-blue{
+    background-color: #428bca !important;
+    border-color: #357ebd !important;
+}
+
+#btn-send{
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+    margin-top: 20px !important;
+}
+legend{
+    width: auto !important;
+    padding: 5px !important;
+    border: 2px solid #B63315 !important;
+    border-radius: 5px;
+}
+.border-fieldset{
+    border: 2px solid #B63315 !important;
+}
+
+.checkbox{
+
+    height: 20px !important;
+    width: 20px !important;
+
+}
+
+.margin-rl-auto{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.display-inline{
+    display: inline-block !important;
+}
+.btn-green{
+    background-color: #5da423 !important;
+    border-color: #4cae4c !important;
+}
+#selectroom{
+    margin: auto !important;
+    float: none;
+    margin-top: 10% !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    position: static !important;
+    height: 90% !important;
+    width: 65% !important;
+}
+.width100{
+    width: 100% !important;
+}
+.float-left{
+    float: left !important;
+}
+.margin-left0{
+    margin-left: 0px !important;
+}
+.clearfix{
+    clear: both !important;
+}
+.justify{
+    text-align: justify !important;
+}
+.size{
+    width: 40px !important;
+    height: 40px !important;
+    position: relative !important;
+    top: -5px !important;
+
+}
+.logo-home{
+    color: #fff !important;
+    font-size: 30px !important;
+}
+.select-term{
+    width: 30% !important;
+
+}
+.search-form{
+    margin-bottom: 20px !important;
+}
+.information{
+    padding: 25px !important;
+    font-size: 20px !important;
+    border-bottom: 1px solid rgba(255,255,255, 0.3) !important;
+}
+.padding-5px{
+    padding: 5px !important;
+}
+.icon{
+    font-size: 25px !important;
+}
+.table-buy{
+    padding-top: 20px !important;
+}
+.padding-10px{
+    padding: 10px !important;
+}
+.padding-top12px{
+    padding-top: 12px !important;
+}
+.input-search{
+    height: 30px !important;
+}
+.td-date{
+    direction: ltr !important;
+    text-align: right !important;
+}
+.message:before{
+    content: initial !important;
+}
+.border-default{
+    border: 1px solid rgba(255,255,255, 0.3) !important;
+}
+.message{
+    background-color: #00b8e0 !important;
+}
+
+.form-label label{
+    color: #334 !important;
+    font-size: 20px !important;
+}
+
+.pages{
+    background-color: #eee !important;
+}
+
+.bg-slider-control{
+   left: 62% !important;
+}
+.static{
+    position: static !important;
+}
+.fontsize25{
+    font-size: 25px !important;
+}
+.margin-right-auto{
+    margin-right: auto !important;
+}
+.margin20{
+    margin: 20px !important;
+    margin-right: auto !important;
+}
